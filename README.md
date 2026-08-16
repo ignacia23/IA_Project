@@ -1,1 +1,3 @@
-# IA_Project
+# IA_Project 
+
+![alt text](<Screenshot 2026-08-16 035455.png>) ![alt text](<Screenshot 2026-08-16 035433.png>) ![alt text](<Screenshot 2026-08-16 035419.png>) ![alt text](<Screenshot 2026-08-16 035407.png>) ![alt text](<Screenshot 2026-08-16 035333.png>) ![alt text](<Screenshot 2026-08-16 035146.png>) ![alt text](<Screenshot 2026-08-16 035129.png>) ![alt text](<Screenshot 2026-08-16 035021.png>) ![alt text](<Screenshot 2026-08-16 040306.png>)
